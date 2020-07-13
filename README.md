@@ -4,4 +4,4 @@ A simple Tic Tac Toe game made using Python with  tkinter
 
 
 
-Part of my one commit a day grind.
+Part of my a commit a day grind.
